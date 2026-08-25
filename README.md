@@ -1,12 +1,18 @@
-# Tap & Trace (TapNTrace) 🚀
+<p align="center">
+  <img src="logo.png" width="130" height="130" alt="Tap & Trace Logo" />
+</p>
 
-## Modern On-Device Android Web DevTools Browser
+<h1 align="center">Tap & Trace (TapNTrace) 🚀</h1>
+<p align="center">
+  <strong>Modern On-Device Android Web DevTools Browser</strong><br/>
+  <em>Inspect, Debug, and Live-Edit Websites Directly on Android</em>
+</p>
 
-**Tap & Trace** brings full desktop-class web inspection, live DOM editing, JavaScript REPL console, network waterfall analysis, and CDP automation directly to Android devices without requiring a PC, USB cable, or ADB setup.
-
-* **Official Product Website:** [https://tapntrace.renxlabs.in](https://tapntrace.renxlabs.in)
-* **Company Website:** [https://renxlabs.in](https://renxlabs.in)
-* **Developed & Maintained by:** **RenX Labs Pvt. Ltd.**
+<p align="center">
+  <a href="https://tapntrace.renxlabs.in">🌐 Official Website</a> •
+  <a href="https://tapntrace.renxlabs.in/downloads/tapntrace-v1.0.0.apk">📲 Download Free APK</a> •
+  <a href="https://renxlabs.in">🏢 RenX Labs Pvt. Ltd.</a>
+</p>
 
 ---
 
@@ -69,5 +75,5 @@ Download the latest signed Android release APK:
 
 ## 🏷️ Keywords
 
-TapNTrace, Tap & Trace, DebugGo, Android DevTools, Mobile Web Inspector, Inspect Element Android, Mobile Console, Network Waterfall, Edit HTML CSS on Phone, CDP Playwright Android, RenX Labs Pvt Ltd.
+TapNTrace, Tap & Trace, tapntrace, Android DevTools, Mobile Web Inspector, Inspect Element Android, Mobile Console, Network Waterfall, Edit HTML CSS on Phone, CDP Playwright Android, RenX Labs Pvt Ltd.
 
