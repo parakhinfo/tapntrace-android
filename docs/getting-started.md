@@ -2,9 +2,10 @@
 
 Tap & Trace is an on-device mobile web inspection suite for Android.
 
-## 1. Download & Install (Version 1.0 - Free)
+## 1. Download & Install (Version 2.0 - Free)
 * Download the APK from **[https://tapntrace.renxlabs.in](https://tapntrace.renxlabs.in)** or GitHub Releases.
-* Install the APK on your Android device (Android 8.0+).
+* Direct APK link: **[tapntrace-v2.0.0.apk](https://tapntrace.renxlabs.in/downloads/tapntrace-v2.0.0.apk)**
+* Install the APK on your Android device (Android 8.0+ / API 26+).
 
 ## 2. Inspect Any Web Page
 1. Open Tap & Trace and enter any URL (e.g. `https://news.ycombinator.com`).

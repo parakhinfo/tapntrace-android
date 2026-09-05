@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://tapntrace.renxlabs.in">🌐 Official Website</a> •
-  <a href="https://tapntrace.renxlabs.in/downloads/tapntrace-v1.0.0.apk">📲 Download Free APK</a> •
+  <a href="https://tapntrace.renxlabs.in/downloads/tapntrace-v2.0.0.apk">📲 Download Free APK</a> •
   <a href="https://renxlabs.in">🏢 RenX Labs Pvt. Ltd.</a>
 </p>
 
@@ -18,18 +18,16 @@
 
 ## 🌟 Releases & Product Status
 
-### 🟢 Version 1.0.0 (v1) — 100% Free APK
-* **Status:** Live & Available for Free Download
+### 🟢 Version 2.0.0 (v2) — 100% Free APK
+* **Status:** Live & Available for Free Download 🚀
 * **Pricing:** 100% Free forever for developers, QA testers, and students.
-* **Direct Download:** [Download Free APK (v1.0.0)](https://tapntrace.renxlabs.in/downloads/tapntrace-v1.0.0.apk)
-
-### ⚡ Version 2.0.0 (v2) — More Powerful Version Coming Soon!
-* **Status:** In Active Development 🚀
-* **Upcoming Features:**
-  * Advanced Network Interceptor & API Response Mocking
-  * Bulk HAR Archive & Postman Collection Export
-  * Performance Heap & Memory Profiling
-  * Pro Automation & Cloud Sync Diagnostics
+* **Direct Download:** [Download Free APK (v2.0.0)](https://tapntrace.renxlabs.in/downloads/tapntrace-v2.0.0.apk)
+* **What's New in v2.0:**
+  * Real-time mobile network condition throttling (Fast 3G, Slow 3G) and 1-tap Offline simulation.
+  * Strict GDPR & Privacy Mode with automatic session data wipe on navigation.
+  * User Scripts & Extensions Framework with built-in accessibility & CSS layout debuggers.
+  * 1-Tap Markdown Bug Report Exporter for GitHub / GitLab / Slack issue tracking.
+  * Save Page for Offline DOM inspection.
 
 ---
 
