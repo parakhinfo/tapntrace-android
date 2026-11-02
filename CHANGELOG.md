@@ -2,6 +2,11 @@
 
 All notable releases and updates of Tap & Trace (TapNTrace) are documented here.
 
+## [v2.0.1] - 2026-11-02 (Maintenance & UX Update) 🚀
+- **Network URL Actions Dialog:** Tapping any request URL in the Network section now shows options to **Open Link in New Tab**, **Copy Link**, **View Request Details**, **Copy as cURL**, and **Replay Request**.
+- **Fixed Network Selection Crash:** Resolved recursive invocation in cURL generation that previously caused stack overflow when tapping network items.
+- **Request Details Quick Actions:** Added direct "Open in New Tab" and "Copy URL" buttons to the Network Request details action bar and assist chips.
+
 ## [v2.0.0] - 2026-09-05 (Major Feature Release - Free Forever) 🚀
 - **Network Throttling & Offline Simulation:** Real-time mobile network condition emulation: Fast 3G (1.5 Mbps), Slow 3G (400 Kbps), and 1-tap Offline mode with sticky alert banners and request interception.
 - **Strict GDPR & Privacy Mode:** 1-tap zero-logging mode that automatically clears cookies, storage, cache, DOM trees, and console history on page navigation or tab close. Visual shield badge in address bar.
